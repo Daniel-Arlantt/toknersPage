@@ -77,7 +77,7 @@ const SliderMobile = () => {
               </div>
 
               <h2 className="flex flex-col justify-center items-center text-3xl font-bold">
-                Phase T{" "}
+                Phase TN{" "}
                 <p className="font-semibold text-lg">0/04/2021 - 16/04/2021</p>
               </h2>
 
