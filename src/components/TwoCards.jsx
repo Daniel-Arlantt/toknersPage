@@ -19,7 +19,7 @@ const TwoCards = () => {
       </div>
 
       <div className="bg-[#171B29] w-[90vw] p-8 rounded-2xl flex flex-col gap-3 transition-transform hover:scale-105">
-        <div className="bg-[#2278D4] w-[15vw] h-[15vw] rounded-full flex justify-center items-center text-3xl text-[#0F1320] shadow-lg shadow-[#167440]">
+        <div className="bg-[#2278D4] w-[15vw] h-[15vw] rounded-full flex justify-center items-center text-3xl text-[#0F1320] shadow-lg shadow-[#2278D4]">
           <PiCrownSimpleFill />
         </div>
         <h2 className="flex gap-2 font-bold text-2xl">

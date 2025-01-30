@@ -1,3 +1,4 @@
+import Footer from "./components/Footer"
 import Header from "./components/Header"
 import Home from "./components/Home"
 import InfoCard from "./components/InfoCard"
@@ -16,6 +17,7 @@ const App = () => {
       <QInfos/>
       <TokIsComing/>
       <SliderMobile/>
+      <Footer/>
     </div>
   )
 }
